@@ -63,7 +63,7 @@ class Utilities:
             body = driver.find_element(By.CSS_SELECTOR, 'body')
             body.send_keys(Keys.END)
             body.send_keys(Keys.HOME)
-            time.sleep(randint(1, 2))
+            time.sleep(randint(2, 3))
         except Exception as ex:
             logger.exception(f"{os.getenv('EVENT_ID')} - "+"Error at scroll_up_down method {}".format(ex))
             
