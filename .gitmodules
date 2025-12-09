@@ -3,11 +3,11 @@
 	url = https://github.com/Epi-Sim/EpiSim.jl
 	branch = main
 [submodule "WP2/use-cases/health-crisis/episim-emews"]
-	path = WP2/use-cases/health-crisis/episim-emews
+	path = CREXDATA Use Case Scenarios/Health Emergency Use Case/Workflows/episim-emews
 	url = https://github.com/Epi-Sim/episim-emews
 	branch = main
 [submodule "WP2/use-cases/health-crisis/episim-rl"]
-	path = WP2/use-cases/health-crisis/episim-rl
+	path = CREXDATA Use Case Scenarios/Health Emergency Use Case/Workflows/episim-rl
 	url = https://github.com/Epi-Sim/episim-rl
 	branch = main
 [submodule "WP2/simulators/MMCACovid19Vac.jl"]
@@ -19,6 +19,6 @@
 	url = https://github.com/Epi-Sim/MMCAcovid19.jl
 	branch = master
 [submodule "WP2/use-cases/health-crisis/episim-models"]
-	path = WP2/use-cases/health-crisis/episim-models
+	path = CREXDATA Use Case Scenarios/Health Emergency Use Case/Workflows/episim-models
 	url = https://github.com/Epi-Sim/episim-models/
 	branch = main
